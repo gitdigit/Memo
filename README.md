@@ -1,8 +1,8 @@
-# 🧠 Memory Game
+# Memo
 
 ## Description
 
-Memory Game is a classic memory game where the player must find all the matching pairs of cards. It's a great way to test and improve your short-term memory while having fun!
+Memois a classic memory game where the player must find all the matching pairs of cards. It's a great way to test and improve your short-term memory while having fun!
 
 ## 🫧Features
 
